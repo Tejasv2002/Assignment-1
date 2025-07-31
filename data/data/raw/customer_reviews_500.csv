@@ -1,0 +1,501 @@
+review_id,customer_name,product,rating,review_text
+1,Neha,Speaker,1,"Very poor quality, stopped working."
+2,Sneha,Keyboard,2,Low battery life and heating issues.
+3,Priya,Monitor,3,"Average performance, nothing great."
+4,Rohit,Headphones,1,Low battery life and heating issues.
+5,Priya,Headphones,3,Product is fine but delivery was late.
+6,Karan,Camera,5,Excellent product! Works perfectly.
+7,Anjali,Headphones,2,Extremely disappointed with the product.
+8,Priya,Camera,2,Not worth the money.
+9,Rohit,Camera,5,Superb design and smooth functionality.
+10,Amit,Speaker,5,Battery life and performance are top-notch.
+11,Amit,Camera,2,Not worth the money.
+12,Sneha,Laptop,1,Low battery life and heating issues.
+13,Pooja,Keyboard,1,"Very poor quality, stopped working."
+14,Anjali,Headphones,2,Low battery life and heating issues.
+15,Karan,Phone,5,Superb design and smooth functionality.
+16,Pooja,Keyboard,5,Superb design and smooth functionality.
+17,Anjali,Speaker,4,"Amazing experience, highly recommend."
+18,Pooja,Camera,4,"Amazing experience, highly recommend."
+19,Anjali,Tablet,5,"Amazing experience, highly recommend."
+20,Priya,Laptop,4,Excellent product! Works perfectly.
+21,Pooja,Charger,4,Superb design and smooth functionality.
+22,Vikas,Headphones,2,"Very poor quality, stopped working."
+23,Karan,Tablet,2,Not worth the money.
+24,Vikas,Headphones,5,Battery life and performance are top-notch.
+25,Karan,Laptop,2,"Terrible experience, don’t buy."
+26,Vikas,Monitor,4,"Amazing experience, highly recommend."
+27,Rahul,Camera,5,"Amazing experience, highly recommend."
+28,Amit,Headphones,2,Low battery life and heating issues.
+29,Karan,Phone,2,Low battery life and heating issues.
+30,Anjali,Monitor,4,Excellent product! Works perfectly.
+31,Amit,Speaker,5,Battery life and performance are top-notch.
+32,Vikas,Monitor,5,Battery life and performance are top-notch.
+33,Vikas,Keyboard,4,"Amazing experience, highly recommend."
+34,Rohit,Smartwatch,3,It does the job but nothing special.
+35,Vikas,Charger,1,"Terrible experience, don’t buy."
+36,Rohit,Laptop,2,"Terrible experience, don’t buy."
+37,Vikas,Monitor,4,Battery life and performance are top-notch.
+38,Pooja,Speaker,5,Superb design and smooth functionality.
+39,Rahul,Speaker,1,Extremely disappointed with the product.
+40,Karan,Laptop,1,"Very poor quality, stopped working."
+41,Vikas,Charger,3,"Not bad, not great either."
+42,Amit,Tablet,3,"Average performance, nothing great."
+43,Priya,Tablet,1,Extremely disappointed with the product.
+44,Amit,Phone,5,Totally satisfied with the quality.
+45,Neha,Phone,1,Not worth the money.
+46,Amit,Keyboard,1,Extremely disappointed with the product.
+47,Vikas,Speaker,5,Totally satisfied with the quality.
+48,Rohit,Charger,1,"Terrible experience, don’t buy."
+49,Anjali,Charger,3,"Not bad, not great either."
+50,Priya,Speaker,4,Excellent product! Works perfectly.
+51,Vikas,Laptop,5,"Amazing experience, highly recommend."
+52,Pooja,Laptop,1,Low battery life and heating issues.
+53,Neha,Speaker,1,"Terrible experience, don’t buy."
+54,Sneha,Speaker,1,"Terrible experience, don’t buy."
+55,Karan,Camera,3,Okay for the price.
+56,Neha,Keyboard,4,"Amazing experience, highly recommend."
+57,Rahul,Charger,2,Not worth the money.
+58,Rahul,Camera,4,Superb design and smooth functionality.
+59,Anjali,Smartwatch,5,Battery life and performance are top-notch.
+60,Anjali,Laptop,1,"Very poor quality, stopped working."
+61,Rohit,Charger,2,"Very poor quality, stopped working."
+62,Vikas,Speaker,2,Extremely disappointed with the product.
+63,Sneha,Headphones,2,Not worth the money.
+64,Priya,Laptop,5,"Amazing experience, highly recommend."
+65,Neha,Keyboard,5,Totally satisfied with the quality.
+66,Vikas,Headphones,5,Totally satisfied with the quality.
+67,Pooja,Monitor,5,"Amazing experience, highly recommend."
+68,Rohit,Charger,1,"Terrible experience, don’t buy."
+69,Rahul,Monitor,5,Totally satisfied with the quality.
+70,Karan,Tablet,4,Totally satisfied with the quality.
+71,Rahul,Laptop,1,Extremely disappointed with the product.
+72,Priya,Keyboard,5,Superb design and smooth functionality.
+73,Vikas,Speaker,4,Excellent product! Works perfectly.
+74,Rahul,Speaker,3,"Average performance, nothing great."
+75,Karan,Monitor,4,Excellent product! Works perfectly.
+76,Rahul,Speaker,2,"Very poor quality, stopped working."
+77,Sneha,Charger,4,Totally satisfied with the quality.
+78,Sneha,Laptop,2,Low battery life and heating issues.
+79,Priya,Monitor,1,"Very poor quality, stopped working."
+80,Amit,Speaker,1,Not worth the money.
+81,Neha,Laptop,2,"Terrible experience, don’t buy."
+82,Sneha,Tablet,4,"Amazing experience, highly recommend."
+83,Sneha,Laptop,1,Extremely disappointed with the product.
+84,Rohit,Keyboard,5,Battery life and performance are top-notch.
+85,Pooja,Phone,3,Product is fine but delivery was late.
+86,Amit,Phone,5,Battery life and performance are top-notch.
+87,Rahul,Charger,4,"Amazing experience, highly recommend."
+88,Sneha,Headphones,4,Battery life and performance are top-notch.
+89,Neha,Laptop,5,Excellent product! Works perfectly.
+90,Anjali,Monitor,2,Low battery life and heating issues.
+91,Rahul,Charger,1,Low battery life and heating issues.
+92,Rahul,Phone,3,Product is fine but delivery was late.
+93,Sneha,Tablet,3,"Not bad, not great either."
+94,Rahul,Camera,5,Superb design and smooth functionality.
+95,Sneha,Camera,1,Extremely disappointed with the product.
+96,Rahul,Headphones,4,Totally satisfied with the quality.
+97,Neha,Laptop,3,Okay for the price.
+98,Vikas,Laptop,2,"Terrible experience, don’t buy."
+99,Rahul,Camera,3,"Not bad, not great either."
+100,Priya,Monitor,5,Totally satisfied with the quality.
+101,Priya,Camera,5,Superb design and smooth functionality.
+102,Anjali,Tablet,1,"Terrible experience, don’t buy."
+103,Sneha,Smartwatch,4,Battery life and performance are top-notch.
+104,Vikas,Laptop,5,Battery life and performance are top-notch.
+105,Neha,Smartwatch,5,Superb design and smooth functionality.
+106,Priya,Headphones,5,Battery life and performance are top-notch.
+107,Pooja,Phone,1,Low battery life and heating issues.
+108,Pooja,Phone,4,Battery life and performance are top-notch.
+109,Rahul,Smartwatch,4,Battery life and performance are top-notch.
+110,Priya,Headphones,3,It does the job but nothing special.
+111,Vikas,Charger,3,It does the job but nothing special.
+112,Rahul,Headphones,2,"Terrible experience, don’t buy."
+113,Priya,Speaker,4,Totally satisfied with the quality.
+114,Rahul,Smartwatch,4,Battery life and performance are top-notch.
+115,Neha,Laptop,4,"Amazing experience, highly recommend."
+116,Karan,Headphones,3,It does the job but nothing special.
+117,Anjali,Smartwatch,2,Low battery life and heating issues.
+118,Karan,Smartwatch,1,"Terrible experience, don’t buy."
+119,Amit,Speaker,2,"Very poor quality, stopped working."
+120,Rohit,Speaker,1,"Very poor quality, stopped working."
+121,Anjali,Monitor,1,Low battery life and heating issues.
+122,Neha,Monitor,2,Low battery life and heating issues.
+123,Neha,Monitor,5,Battery life and performance are top-notch.
+124,Rohit,Tablet,2,Low battery life and heating issues.
+125,Anjali,Charger,4,"Amazing experience, highly recommend."
+126,Amit,Tablet,4,Superb design and smooth functionality.
+127,Neha,Keyboard,2,Extremely disappointed with the product.
+128,Vikas,Charger,4,Excellent product! Works perfectly.
+129,Sneha,Keyboard,2,Extremely disappointed with the product.
+130,Neha,Monitor,5,Excellent product! Works perfectly.
+131,Rohit,Camera,3,"Average performance, nothing great."
+132,Anjali,Laptop,5,Battery life and performance are top-notch.
+133,Rohit,Monitor,1,"Very poor quality, stopped working."
+134,Sneha,Camera,4,"Amazing experience, highly recommend."
+135,Anjali,Smartwatch,4,Battery life and performance are top-notch.
+136,Rohit,Charger,4,Superb design and smooth functionality.
+137,Priya,Keyboard,3,Okay for the price.
+138,Rohit,Monitor,3,Okay for the price.
+139,Rohit,Speaker,1,"Very poor quality, stopped working."
+140,Rahul,Headphones,5,"Amazing experience, highly recommend."
+141,Pooja,Smartwatch,3,It does the job but nothing special.
+142,Priya,Laptop,1,"Very poor quality, stopped working."
+143,Rohit,Phone,1,Extremely disappointed with the product.
+144,Rahul,Camera,1,"Terrible experience, don’t buy."
+145,Sneha,Keyboard,5,"Amazing experience, highly recommend."
+146,Anjali,Phone,5,Battery life and performance are top-notch.
+147,Pooja,Monitor,2,"Terrible experience, don’t buy."
+148,Vikas,Keyboard,4,Superb design and smooth functionality.
+149,Anjali,Laptop,1,Low battery life and heating issues.
+150,Anjali,Monitor,4,"Amazing experience, highly recommend."
+151,Neha,Smartwatch,3,It does the job but nothing special.
+152,Pooja,Speaker,1,Low battery life and heating issues.
+153,Pooja,Headphones,3,Okay for the price.
+154,Sneha,Laptop,2,"Terrible experience, don’t buy."
+155,Priya,Phone,2,Low battery life and heating issues.
+156,Sneha,Charger,2,"Terrible experience, don’t buy."
+157,Rohit,Speaker,1,Extremely disappointed with the product.
+158,Neha,Laptop,1,Low battery life and heating issues.
+159,Karan,Phone,5,"Amazing experience, highly recommend."
+160,Rohit,Tablet,1,"Very poor quality, stopped working."
+161,Rahul,Tablet,1,Extremely disappointed with the product.
+162,Pooja,Laptop,4,Totally satisfied with the quality.
+163,Anjali,Monitor,1,"Terrible experience, don’t buy."
+164,Pooja,Phone,5,Excellent product! Works perfectly.
+165,Amit,Monitor,5,Totally satisfied with the quality.
+166,Sneha,Phone,4,"Amazing experience, highly recommend."
+167,Sneha,Tablet,3,It does the job but nothing special.
+168,Rohit,Charger,2,"Very poor quality, stopped working."
+169,Rahul,Camera,4,Superb design and smooth functionality.
+170,Neha,Keyboard,4,Excellent product! Works perfectly.
+171,Rohit,Smartwatch,1,Not worth the money.
+172,Priya,Smartwatch,1,"Very poor quality, stopped working."
+173,Priya,Headphones,3,"Not bad, not great either."
+174,Amit,Speaker,5,Totally satisfied with the quality.
+175,Amit,Speaker,1,"Very poor quality, stopped working."
+176,Pooja,Monitor,5,Excellent product! Works perfectly.
+177,Amit,Smartwatch,2,Not worth the money.
+178,Karan,Headphones,2,Not worth the money.
+179,Rohit,Headphones,4,Excellent product! Works perfectly.
+180,Pooja,Monitor,1,Not worth the money.
+181,Neha,Phone,1,Extremely disappointed with the product.
+182,Pooja,Keyboard,5,Battery life and performance are top-notch.
+183,Priya,Camera,5,Battery life and performance are top-notch.
+184,Karan,Keyboard,5,Battery life and performance are top-notch.
+185,Amit,Tablet,2,Not worth the money.
+186,Amit,Phone,2,Not worth the money.
+187,Karan,Charger,3,It does the job but nothing special.
+188,Karan,Speaker,5,Superb design and smooth functionality.
+189,Priya,Charger,3,It does the job but nothing special.
+190,Neha,Headphones,2,"Very poor quality, stopped working."
+191,Priya,Camera,3,"Average performance, nothing great."
+192,Rahul,Laptop,3,"Average performance, nothing great."
+193,Neha,Monitor,3,"Average performance, nothing great."
+194,Amit,Speaker,1,Low battery life and heating issues.
+195,Priya,Phone,3,Product is fine but delivery was late.
+196,Sneha,Smartwatch,4,Excellent product! Works perfectly.
+197,Rohit,Camera,5,Battery life and performance are top-notch.
+198,Pooja,Keyboard,3,It does the job but nothing special.
+199,Vikas,Keyboard,1,"Terrible experience, don’t buy."
+200,Rohit,Headphones,1,Low battery life and heating issues.
+201,Karan,Camera,1,Extremely disappointed with the product.
+202,Rohit,Tablet,5,"Amazing experience, highly recommend."
+203,Rohit,Charger,1,"Terrible experience, don’t buy."
+204,Rohit,Speaker,1,Not worth the money.
+205,Karan,Speaker,2,Low battery life and heating issues.
+206,Rahul,Speaker,1,"Terrible experience, don’t buy."
+207,Karan,Headphones,2,Low battery life and heating issues.
+208,Neha,Keyboard,1,Low battery life and heating issues.
+209,Sneha,Headphones,3,Product is fine but delivery was late.
+210,Priya,Phone,1,"Terrible experience, don’t buy."
+211,Priya,Charger,3,Okay for the price.
+212,Pooja,Laptop,1,Not worth the money.
+213,Neha,Charger,5,Totally satisfied with the quality.
+214,Rohit,Keyboard,3,Product is fine but delivery was late.
+215,Karan,Headphones,4,"Amazing experience, highly recommend."
+216,Amit,Speaker,3,"Not bad, not great either."
+217,Priya,Headphones,1,"Very poor quality, stopped working."
+218,Rohit,Laptop,1,"Very poor quality, stopped working."
+219,Rahul,Charger,3,Product is fine but delivery was late.
+220,Sneha,Smartwatch,5,"Amazing experience, highly recommend."
+221,Rohit,Speaker,2,Low battery life and heating issues.
+222,Neha,Headphones,5,Battery life and performance are top-notch.
+223,Priya,Phone,3,"Average performance, nothing great."
+224,Anjali,Smartwatch,2,Low battery life and heating issues.
+225,Rahul,Charger,1,"Terrible experience, don’t buy."
+226,Amit,Smartwatch,4,Battery life and performance are top-notch.
+227,Rahul,Headphones,5,Totally satisfied with the quality.
+228,Pooja,Tablet,5,Excellent product! Works perfectly.
+229,Pooja,Smartwatch,1,Not worth the money.
+230,Priya,Laptop,4,Excellent product! Works perfectly.
+231,Pooja,Speaker,1,"Terrible experience, don’t buy."
+232,Sneha,Monitor,4,"Amazing experience, highly recommend."
+233,Rohit,Keyboard,3,"Average performance, nothing great."
+234,Pooja,Phone,4,Totally satisfied with the quality.
+235,Rahul,Phone,3,Product is fine but delivery was late.
+236,Sneha,Speaker,5,Superb design and smooth functionality.
+237,Pooja,Monitor,1,"Very poor quality, stopped working."
+238,Amit,Speaker,1,Not worth the money.
+239,Vikas,Smartwatch,5,Battery life and performance are top-notch.
+240,Rohit,Charger,5,"Amazing experience, highly recommend."
+241,Sneha,Headphones,4,"Amazing experience, highly recommend."
+242,Neha,Keyboard,4,Battery life and performance are top-notch.
+243,Neha,Phone,1,Extremely disappointed with the product.
+244,Amit,Speaker,1,Extremely disappointed with the product.
+245,Anjali,Headphones,1,Low battery life and heating issues.
+246,Rohit,Monitor,2,"Terrible experience, don’t buy."
+247,Karan,Camera,1,Extremely disappointed with the product.
+248,Karan,Tablet,2,Extremely disappointed with the product.
+249,Rahul,Smartwatch,4,Battery life and performance are top-notch.
+250,Vikas,Charger,5,Superb design and smooth functionality.
+251,Karan,Headphones,4,Superb design and smooth functionality.
+252,Karan,Charger,3,"Not bad, not great either."
+253,Anjali,Smartwatch,5,Superb design and smooth functionality.
+254,Vikas,Speaker,1,Low battery life and heating issues.
+255,Pooja,Keyboard,3,Okay for the price.
+256,Pooja,Phone,3,It does the job but nothing special.
+257,Anjali,Laptop,2,Low battery life and heating issues.
+258,Anjali,Tablet,3,"Not bad, not great either."
+259,Neha,Monitor,2,"Terrible experience, don’t buy."
+260,Priya,Headphones,2,Not worth the money.
+261,Karan,Laptop,3,It does the job but nothing special.
+262,Anjali,Charger,5,Superb design and smooth functionality.
+263,Karan,Charger,2,Not worth the money.
+264,Priya,Speaker,1,Not worth the money.
+265,Rahul,Keyboard,4,"Amazing experience, highly recommend."
+266,Rahul,Tablet,2,Not worth the money.
+267,Vikas,Headphones,3,Product is fine but delivery was late.
+268,Anjali,Headphones,4,Excellent product! Works perfectly.
+269,Vikas,Smartwatch,2,Not worth the money.
+270,Priya,Smartwatch,4,Superb design and smooth functionality.
+271,Anjali,Smartwatch,2,Not worth the money.
+272,Vikas,Laptop,4,Excellent product! Works perfectly.
+273,Neha,Keyboard,4,Totally satisfied with the quality.
+274,Priya,Keyboard,1,"Very poor quality, stopped working."
+275,Vikas,Speaker,5,Battery life and performance are top-notch.
+276,Pooja,Keyboard,3,Product is fine but delivery was late.
+277,Pooja,Phone,5,"Amazing experience, highly recommend."
+278,Amit,Tablet,4,Excellent product! Works perfectly.
+279,Pooja,Camera,2,Not worth the money.
+280,Karan,Speaker,3,It does the job but nothing special.
+281,Sneha,Tablet,2,Low battery life and heating issues.
+282,Pooja,Monitor,1,"Terrible experience, don’t buy."
+283,Sneha,Headphones,1,"Terrible experience, don’t buy."
+284,Amit,Keyboard,3,"Not bad, not great either."
+285,Rahul,Laptop,5,Battery life and performance are top-notch.
+286,Rahul,Headphones,5,Superb design and smooth functionality.
+287,Karan,Tablet,2,"Very poor quality, stopped working."
+288,Pooja,Monitor,3,"Average performance, nothing great."
+289,Rahul,Camera,3,It does the job but nothing special.
+290,Sneha,Laptop,4,"Amazing experience, highly recommend."
+291,Rohit,Tablet,2,Not worth the money.
+292,Vikas,Speaker,1,Extremely disappointed with the product.
+293,Amit,Speaker,3,Okay for the price.
+294,Karan,Phone,5,Superb design and smooth functionality.
+295,Anjali,Phone,3,Product is fine but delivery was late.
+296,Karan,Phone,3,Product is fine but delivery was late.
+297,Karan,Phone,3,Okay for the price.
+298,Amit,Tablet,2,"Very poor quality, stopped working."
+299,Neha,Tablet,5,"Amazing experience, highly recommend."
+300,Anjali,Speaker,2,"Terrible experience, don’t buy."
+301,Pooja,Smartwatch,3,It does the job but nothing special.
+302,Anjali,Phone,2,"Terrible experience, don’t buy."
+303,Priya,Headphones,2,Low battery life and heating issues.
+304,Rahul,Camera,3,Product is fine but delivery was late.
+305,Pooja,Smartwatch,1,Not worth the money.
+306,Amit,Keyboard,5,Battery life and performance are top-notch.
+307,Rahul,Charger,2,Not worth the money.
+308,Priya,Speaker,3,"Average performance, nothing great."
+309,Sneha,Smartwatch,3,It does the job but nothing special.
+310,Neha,Smartwatch,3,"Not bad, not great either."
+311,Vikas,Speaker,4,Superb design and smooth functionality.
+312,Vikas,Tablet,5,Battery life and performance are top-notch.
+313,Amit,Charger,1,Extremely disappointed with the product.
+314,Anjali,Smartwatch,3,Okay for the price.
+315,Priya,Camera,5,Totally satisfied with the quality.
+316,Pooja,Tablet,1,"Terrible experience, don’t buy."
+317,Amit,Camera,4,Excellent product! Works perfectly.
+318,Pooja,Headphones,1,"Terrible experience, don’t buy."
+319,Rohit,Tablet,1,Low battery life and heating issues.
+320,Vikas,Camera,5,Battery life and performance are top-notch.
+321,Karan,Charger,3,"Not bad, not great either."
+322,Vikas,Smartwatch,1,"Very poor quality, stopped working."
+323,Vikas,Speaker,1,Low battery life and heating issues.
+324,Karan,Monitor,1,Extremely disappointed with the product.
+325,Pooja,Keyboard,1,Extremely disappointed with the product.
+326,Rohit,Headphones,3,"Not bad, not great either."
+327,Amit,Headphones,4,Superb design and smooth functionality.
+328,Anjali,Tablet,3,Product is fine but delivery was late.
+329,Amit,Charger,3,"Average performance, nothing great."
+330,Vikas,Phone,5,Totally satisfied with the quality.
+331,Priya,Speaker,1,Not worth the money.
+332,Pooja,Smartwatch,5,Superb design and smooth functionality.
+333,Anjali,Keyboard,1,Low battery life and heating issues.
+334,Anjali,Headphones,2,"Very poor quality, stopped working."
+335,Vikas,Monitor,2,"Terrible experience, don’t buy."
+336,Rohit,Tablet,4,Totally satisfied with the quality.
+337,Anjali,Charger,3,"Not bad, not great either."
+338,Neha,Camera,3,"Average performance, nothing great."
+339,Amit,Smartwatch,3,Okay for the price.
+340,Anjali,Tablet,2,Not worth the money.
+341,Pooja,Charger,3,Product is fine but delivery was late.
+342,Sneha,Headphones,4,Excellent product! Works perfectly.
+343,Neha,Smartwatch,3,Okay for the price.
+344,Sneha,Phone,4,Excellent product! Works perfectly.
+345,Neha,Speaker,3,"Not bad, not great either."
+346,Rahul,Phone,3,Okay for the price.
+347,Pooja,Tablet,2,Low battery life and heating issues.
+348,Amit,Smartwatch,2,"Very poor quality, stopped working."
+349,Anjali,Keyboard,4,Battery life and performance are top-notch.
+350,Karan,Speaker,3,"Not bad, not great either."
+351,Rohit,Keyboard,2,Extremely disappointed with the product.
+352,Anjali,Speaker,2,Extremely disappointed with the product.
+353,Vikas,Monitor,5,"Amazing experience, highly recommend."
+354,Rahul,Tablet,3,"Not bad, not great either."
+355,Sneha,Phone,3,"Not bad, not great either."
+356,Anjali,Speaker,1,Low battery life and heating issues.
+357,Vikas,Smartwatch,1,Not worth the money.
+358,Rahul,Tablet,1,"Terrible experience, don’t buy."
+359,Pooja,Phone,3,Product is fine but delivery was late.
+360,Rohit,Camera,4,Totally satisfied with the quality.
+361,Priya,Laptop,2,Extremely disappointed with the product.
+362,Rohit,Laptop,4,Battery life and performance are top-notch.
+363,Neha,Smartwatch,4,Excellent product! Works perfectly.
+364,Karan,Laptop,3,"Average performance, nothing great."
+365,Karan,Speaker,2,Not worth the money.
+366,Neha,Laptop,2,Not worth the money.
+367,Vikas,Smartwatch,3,Okay for the price.
+368,Priya,Headphones,5,Superb design and smooth functionality.
+369,Vikas,Laptop,1,Low battery life and heating issues.
+370,Priya,Monitor,2,"Terrible experience, don’t buy."
+371,Rohit,Phone,2,Extremely disappointed with the product.
+372,Anjali,Monitor,5,"Amazing experience, highly recommend."
+373,Sneha,Camera,2,Not worth the money.
+374,Anjali,Keyboard,1,"Terrible experience, don’t buy."
+375,Vikas,Charger,2,Low battery life and heating issues.
+376,Rohit,Phone,3,"Average performance, nothing great."
+377,Rohit,Tablet,1,Extremely disappointed with the product.
+378,Amit,Headphones,1,Not worth the money.
+379,Sneha,Smartwatch,1,Extremely disappointed with the product.
+380,Anjali,Tablet,3,Product is fine but delivery was late.
+381,Pooja,Keyboard,1,"Very poor quality, stopped working."
+382,Karan,Keyboard,1,"Terrible experience, don’t buy."
+383,Anjali,Headphones,2,"Terrible experience, don’t buy."
+384,Priya,Camera,2,Extremely disappointed with the product.
+385,Rohit,Charger,5,Battery life and performance are top-notch.
+386,Pooja,Speaker,1,Not worth the money.
+387,Sneha,Speaker,5,Superb design and smooth functionality.
+388,Rahul,Laptop,5,Battery life and performance are top-notch.
+389,Sneha,Monitor,1,"Very poor quality, stopped working."
+390,Vikas,Headphones,1,"Terrible experience, don’t buy."
+391,Neha,Smartwatch,4,Battery life and performance are top-notch.
+392,Sneha,Speaker,3,Okay for the price.
+393,Karan,Phone,1,"Terrible experience, don’t buy."
+394,Priya,Keyboard,5,Excellent product! Works perfectly.
+395,Karan,Speaker,5,Totally satisfied with the quality.
+396,Vikas,Speaker,4,Superb design and smooth functionality.
+397,Karan,Camera,4,Excellent product! Works perfectly.
+398,Neha,Speaker,2,Low battery life and heating issues.
+399,Rohit,Speaker,1,"Very poor quality, stopped working."
+400,Amit,Laptop,4,Battery life and performance are top-notch.
+401,Pooja,Charger,5,Totally satisfied with the quality.
+402,Rahul,Smartwatch,5,"Amazing experience, highly recommend."
+403,Neha,Headphones,5,Superb design and smooth functionality.
+404,Neha,Phone,5,"Amazing experience, highly recommend."
+405,Priya,Phone,1,Extremely disappointed with the product.
+406,Vikas,Smartwatch,1,Not worth the money.
+407,Rahul,Charger,4,Superb design and smooth functionality.
+408,Neha,Charger,5,Excellent product! Works perfectly.
+409,Amit,Phone,5,Totally satisfied with the quality.
+410,Rahul,Camera,1,Not worth the money.
+411,Sneha,Monitor,4,Superb design and smooth functionality.
+412,Sneha,Charger,3,Okay for the price.
+413,Anjali,Speaker,1,"Very poor quality, stopped working."
+414,Rahul,Keyboard,5,"Amazing experience, highly recommend."
+415,Neha,Keyboard,2,"Very poor quality, stopped working."
+416,Rohit,Tablet,4,Superb design and smooth functionality.
+417,Vikas,Speaker,1,Extremely disappointed with the product.
+418,Pooja,Tablet,5,Excellent product! Works perfectly.
+419,Neha,Tablet,3,Okay for the price.
+420,Karan,Headphones,2,Not worth the money.
+421,Rohit,Camera,3,Okay for the price.
+422,Neha,Keyboard,4,Superb design and smooth functionality.
+423,Karan,Laptop,5,Totally satisfied with the quality.
+424,Pooja,Laptop,4,Battery life and performance are top-notch.
+425,Vikas,Laptop,1,"Terrible experience, don’t buy."
+426,Vikas,Tablet,5,Excellent product! Works perfectly.
+427,Rahul,Headphones,4,Excellent product! Works perfectly.
+428,Rahul,Laptop,5,Battery life and performance are top-notch.
+429,Pooja,Keyboard,5,Excellent product! Works perfectly.
+430,Priya,Charger,5,Battery life and performance are top-notch.
+431,Pooja,Smartwatch,3,"Average performance, nothing great."
+432,Anjali,Laptop,4,"Amazing experience, highly recommend."
+433,Rohit,Laptop,5,"Amazing experience, highly recommend."
+434,Priya,Monitor,3,"Not bad, not great either."
+435,Anjali,Smartwatch,1,Extremely disappointed with the product.
+436,Pooja,Headphones,5,"Amazing experience, highly recommend."
+437,Amit,Laptop,3,Okay for the price.
+438,Karan,Camera,2,"Very poor quality, stopped working."
+439,Priya,Monitor,3,It does the job but nothing special.
+440,Rohit,Charger,3,"Not bad, not great either."
+441,Amit,Charger,4,"Amazing experience, highly recommend."
+442,Karan,Phone,3,"Average performance, nothing great."
+443,Priya,Headphones,5,Excellent product! Works perfectly.
+444,Rahul,Headphones,1,Low battery life and heating issues.
+445,Anjali,Laptop,2,Low battery life and heating issues.
+446,Rohit,Keyboard,2,Not worth the money.
+447,Amit,Smartwatch,4,"Amazing experience, highly recommend."
+448,Rahul,Smartwatch,1,Low battery life and heating issues.
+449,Priya,Tablet,3,It does the job but nothing special.
+450,Karan,Keyboard,4,"Amazing experience, highly recommend."
+451,Anjali,Laptop,4,Totally satisfied with the quality.
+452,Neha,Camera,4,Battery life and performance are top-notch.
+453,Neha,Tablet,4,Totally satisfied with the quality.
+454,Priya,Laptop,1,"Very poor quality, stopped working."
+455,Amit,Smartwatch,3,It does the job but nothing special.
+456,Rahul,Camera,5,Totally satisfied with the quality.
+457,Pooja,Smartwatch,2,Not worth the money.
+458,Neha,Keyboard,3,"Not bad, not great either."
+459,Neha,Speaker,3,It does the job but nothing special.
+460,Neha,Tablet,4,Battery life and performance are top-notch.
+461,Anjali,Keyboard,1,Extremely disappointed with the product.
+462,Sneha,Monitor,4,Battery life and performance are top-notch.
+463,Amit,Tablet,2,"Terrible experience, don’t buy."
+464,Rahul,Camera,3,Okay for the price.
+465,Sneha,Camera,5,"Amazing experience, highly recommend."
+466,Priya,Laptop,2,Low battery life and heating issues.
+467,Neha,Phone,2,Low battery life and heating issues.
+468,Rahul,Laptop,4,"Amazing experience, highly recommend."
+469,Sneha,Keyboard,4,Battery life and performance are top-notch.
+470,Pooja,Tablet,4,Excellent product! Works perfectly.
+471,Neha,Monitor,5,"Amazing experience, highly recommend."
+472,Neha,Keyboard,2,Low battery life and heating issues.
+473,Anjali,Laptop,3,"Not bad, not great either."
+474,Sneha,Laptop,3,"Average performance, nothing great."
+475,Rahul,Laptop,1,Low battery life and heating issues.
+476,Rahul,Laptop,5,Superb design and smooth functionality.
+477,Priya,Keyboard,1,"Terrible experience, don’t buy."
+478,Priya,Charger,3,It does the job but nothing special.
+479,Rohit,Phone,3,Product is fine but delivery was late.
+480,Rahul,Laptop,4,Superb design and smooth functionality.
+481,Karan,Laptop,4,Totally satisfied with the quality.
+482,Sneha,Phone,4,Excellent product! Works perfectly.
+483,Rahul,Phone,4,Superb design and smooth functionality.
+484,Anjali,Headphones,1,Not worth the money.
+485,Karan,Laptop,3,Okay for the price.
+486,Sneha,Phone,1,"Very poor quality, stopped working."
+487,Vikas,Headphones,2,"Very poor quality, stopped working."
+488,Priya,Headphones,4,Superb design and smooth functionality.
+489,Rahul,Camera,2,Not worth the money.
+490,Amit,Smartwatch,1,"Very poor quality, stopped working."
+491,Karan,Monitor,1,Not worth the money.
+492,Rahul,Smartwatch,4,Superb design and smooth functionality.
+493,Vikas,Camera,5,Superb design and smooth functionality.
+494,Neha,Monitor,2,"Terrible experience, don’t buy."
+495,Karan,Monitor,2,Not worth the money.
+496,Karan,Charger,4,Battery life and performance are top-notch.
+497,Vikas,Headphones,3,It does the job but nothing special.
+498,Neha,Phone,4,Superb design and smooth functionality.
+499,Amit,Headphones,4,Totally satisfied with the quality.
+500,Karan,Laptop,2,"Terrible experience, don’t buy."
